@@ -22,9 +22,9 @@ owner:
 
 # Internal nav
 nav:
-  - GALLERY: "https://matthewrobertfoley.com/photorama/gallery/"  
-  - JOURNAL: "https://matthewrobertfoley.com/photorama/journal/"
-  - ABOUT: "https://matthewrobertfoley.com/photorama/about/"
+  - GALLERY: "https://matthewrobertfoley.com/gallery/"  
+  - JOURNAL: "https://matthewrobertfoley.com/journal/"
+  - ABOUT: "https://matthewrobertfoley.com/about/"
 
 # All translation keys
 translations:
